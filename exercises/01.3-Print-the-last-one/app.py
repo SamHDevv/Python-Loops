@@ -12,3 +12,9 @@ def generate_random_list():
 my_stupid_list = generate_random_list()
 
 # Feel happy to write the code below this comment, good luck!:
+
+print(generate_random_list())
+
+the_last_one = len(my_stupid_list)
+
+print(the_last_one)
